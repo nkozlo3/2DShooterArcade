@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home Screen.unity
+    guid: 98dff17b6207a43fb97c021382b971c1
+  - enabled: 1
+    path: Assets/Scenes/Difficulty selection.unity
+    guid: ae5e30537fd4c484c8f19143ee7aae71
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MusicChoices.unity
+    guid: 1b1d6ece8dd3144a7bf3bd564e478132
+  - enabled: 1
+    path: Assets/Scenes/Need To Relax.unity
+    guid: 6ab72feffd3d748f8a0e467975706b1c
+  - enabled: 1
+    path: Assets/Scenes/GameTwoLevelSelection.unity
+    guid: 76df52509fc47ca4bba093a9b0d23790
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectionScreenGameTwo.unity
+    guid: 7dfc4a9ff6fb1db4faf39fb02fb80411
+  - enabled: 1
+    path: Assets/Scenes/Game Two.unity
+    guid: f7de4526b35094a51aaf0032501dc75c
+  - enabled: 1
+    path: Assets/Scenes/GameTwoLevel2.unity
+    guid: 3218cac470585ab459cd7c9ec35af7e3
+  - enabled: 1
+    path: Assets/Scenes/Infinite Runner.unity
+    guid: 31104e4723915e04f9e4009282b07507
+  m_configObjects: {}
